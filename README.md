@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently working on  <br>- Java & Spring Boot backend applications  <br>- REST APIs, CRUD modules, and database integrations<br><br>👯 I’m looking to collaborate on  <br>- Java / Spring Boot backend projects  <br>- Backend development & API-based applications<br><br>🌱 I’m currently learning  <br>- Advanced Spring Boot concepts  Microservices & Security<br> - Microservices & Security<br>- Docker & basic cloud fundamentals   <br>- Jenkins for implementing CI/CD pipelines<br><br> Fun fact  <br>- I enjoy converting business requirements into clean backend logic ☕💻
+🔭  I’m currently working on  <br>- Java & Spring Boot backend applications  <br>- REST APIs, CRUD modules, and database integrations<br><br>👯 I’m looking to collaborate on  <br>- Java / Spring Boot backend projects  <br>- Backend development & API-based applications<br><br>🌱 I’m currently learning  <br>- Advanced Spring Boot concepts <br> - Microservices & Security<br>- Docker & basic cloud fundamentals   <br>- Jenkins for implementing CI/CD pipelines<br><br> Fun fact  <br>- I enjoy converting business requirements into clean backend logic ☕💻
 
 
 ## 🌐 Socials:
